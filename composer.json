@@ -1,0 +1,24 @@
+{
+    "name": "trueme/parent-composer",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "ParentComposer\\": "./src"
+        }
+    },
+    "require": {
+        "trueme/mapping-array": "dev-master",
+        "trueme/child-composer": "dev-master",
+        "guzzlehttp/guzzle": "6.3.2"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/quocvo87/ChildComposer.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/quocvo87/MappingArray.git"
+        }
+    ]
+}
