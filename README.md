@@ -24,7 +24,7 @@
 
 | 3. Step by step do it
 -----------------------
-    > You're staying ParentComposer project: https://github.com/quocvo87/ParentComposer.git
+    > You're staying ParentComposer project: https://github.com/truemenews/ParentComposer.git
     > ParentComposer will have conflict when use: composer install/update to download packages above
         |__Your requirements could not be resolved to an installable set of packages.
         Problem 1
