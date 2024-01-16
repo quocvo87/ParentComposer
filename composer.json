@@ -9,7 +9,7 @@
     "require": {
         "trueme/mapping-array": "dev-master",
         "trueme/child-composer": "dev-master",
-        "guzzlehttp/guzzle": "6.3.2"
+        "guzzlehttp/guzzle": "6.2.0"
     },
     "repositories": [
         {
